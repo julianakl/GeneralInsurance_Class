@@ -1,2 +1,2 @@
-*add your notes and reflections here*
+"prikaz v Git"
 "prikaz v R"
