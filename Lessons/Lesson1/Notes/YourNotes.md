@@ -4,3 +4,5 @@
 "poznamka v R"
 =======
 >>>>>>> 66cefd1352f6f78e2f72239386f0db1e31230b79
+
+dalsia poznamka v R
